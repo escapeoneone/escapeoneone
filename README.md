@@ -2,7 +2,7 @@
 
 ### Hi!
 Welcome to my github account!
-My nickname is esc11 or escapeoneone.
+My nickname is Vector1dev.
 ### Languages
 
 ##### TypeScript
